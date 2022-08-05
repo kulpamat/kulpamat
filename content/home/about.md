@@ -10,7 +10,7 @@ design:
   columns: "1"
   background:
     color: "#000000"
-    image: mrk_9796.jpg
+    image: ""
 ---
 <!--StartFragment-->
 
