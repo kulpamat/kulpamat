@@ -9,7 +9,7 @@ title: Biography
 design:
   columns: "1"
   background:
-    color: "#000000"
+    color: "#f9fffb"
     image: ""
 ---
 <!--StartFragment-->
