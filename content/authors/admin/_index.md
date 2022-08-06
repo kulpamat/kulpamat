@@ -11,29 +11,33 @@ role: PhD student, Veterinarian
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Texas A&M University
-    url: 
+    url: https://vetmed.tamu.edu/verocai-lab/
 
 # Short bio (displayed in user profile at end of posts)
 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - One Health
+  - Wildlife disease
+  - Parasitology
+  - Evolution
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Veterinary Parasitology
+      institution: Texas A&M University
+      year: anticpated in 2024
+    - course: DVM in Veterinary Medicine
+      institution: Michigan State University
+      year: 2020
+    - course: MS in Sensory Ecology
+      institution: Bowling Green State University
+      year: 2014
+      course: BS in Zoology
+      institution: Michigan State University
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mooseofluv
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=0e0ugC4AAAAJ&hl=en)
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Matthew-Kulpa
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
