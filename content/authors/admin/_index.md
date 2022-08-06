@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello friend and colleagues! My name is Matthew Kulpa, and I am a Merit Scholars PhD student in the Verocai Parasitology Lab at Texas A&M University. My thesis work focuses on the evolution and biodiversity of wildlife filarial parasites and encompasses developing next-gen screening methods to improve filarial parasite diagnosis in the veterinary and human medical spheres.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to being a PhD student, I am veterinarian and have specialized in a variety of diverse scientific topics (this includes sensory ecology, animal behavior, and wildlife pathology). I hope to use these past experiences to help better communicate scientific concepts to the larger public and plan to use my knowledge to engage in a variety of public and virtual settings.  Please feel free to reach out via email or any of my social media platforms if you have any questions or wish to discuss collaborations/outreach/speaking engagements. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
