@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Veterinary Parasitology
       institution: Texas A&M University
-      year: anticpated in 2024
+      year: anticipated 2024
     - course: DVM in Veterinary Medicine
       institution: Michigan State University
       year: 2020
