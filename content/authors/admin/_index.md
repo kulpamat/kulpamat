@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matthew Kulpa
+title: Matthew R. Kulpa
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kulpamat@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
