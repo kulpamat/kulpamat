@@ -52,7 +52,7 @@ social:
     link: https://twitter.com/mooseofluv
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=0e0ugC4AAAAJ&hl=en)
+    link: https://scholar.google.com/citations?user=0e0ugC4AAAAJ&hl=en
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Matthew-Kulpa
