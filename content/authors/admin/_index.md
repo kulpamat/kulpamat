@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - One Health
-  - Wildlife disease
+  - Wildlife Disease
   - Parasitology
   - Evolution
 
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kulpamat@gmail.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
