@@ -1,7 +1,7 @@
 ---
 widget: about
 active: true
-author: admin
+author: Matthew R. Kulpa
 widget_id: Matthew R. Kulpa
 headless: true
 weight: 20
