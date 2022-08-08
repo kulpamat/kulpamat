@@ -50,7 +50,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mooseofluv
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0e0ugC4AAAAJ&hl=en
   - icon: researchgate
