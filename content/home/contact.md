@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: For any questions or appointments please reach out through this contact forum or one of my listed points of contact
 
 content:
   # Automatically link email and phone or display as text?
