@@ -1,6 +1,6 @@
 ---
 widget: about
-active: true
+active: false
 author: Matthew R. Kulpa
 widget_id: Matthew R. Kulpa
 headless: true
