@@ -2,6 +2,9 @@
 title: Posts
 cms_exclude: true
 
+# Optional external URL for project (replaces project detail page).
+external_link: 'https://matthewrkulpa.com/#content/posts/'
+
 # View.
 #   1 = List
 #   2 = Compact
