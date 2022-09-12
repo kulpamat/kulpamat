@@ -6,7 +6,12 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Kimberly J Nelson
+  - Alana M Morales 
+  - Bonnie M Ryan 
+  - Michelle L Koschik 
+  - Jamesina J Scott 
+  - Guilherme G Verocai
 
 # Author notes (optional)
 author_notes:
@@ -23,16 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Parasites & Vectors*
+publication_short: In *Parasit Vectors*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Black flies (Diptera: Simuliidae) serve as arthropod vectors for various species of Onchocerca (Nematoda: Onchocercidae) that may be associated with disease in humans, domestic animals, and wildlife. The emergence of zoonotic Onchocerca lupi in North America and reports of cervid-associated zoonotic onchocerciasis by Onchocerca jakutensis highlight the need for increased entomological surveillance. In addition, there is mounting evidence that Onchocerca diversity in North America is far greater than previously thought, currently regarded as Onchocerca cervipedis species complex. This study reports new geographic records and black fly vector associations of an uncharacterized Onchocerca species.
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-021-04990-1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
