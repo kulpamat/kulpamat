@@ -33,7 +33,7 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In *Parasites & Vectors*
 publication_short: In *Parasit Vectors*
-abstract: Black flies (Diptera: Simuliidae) serve as arthropod vectors for various species of Onchocerca (Nematoda: Onchocercidae) that may be associated with disease in humans, domestic animals, and wildlife. The emergence of zoonotic Onchocerca lupi in North America and reports of cervid-associated zoonotic onchocerciasis by Onchocerca jakutensis highlight the need for increased entomological surveillance. In addition, there is mounting evidence that Onchocerca diversity in North America is far greater than previously thought, currently regarded as Onchocerca cervipedis species complex. This study reports new geographic records and black fly vector associations of an uncharacterized Onchocerca species.
+abstract: Black flies serve as arthropod vectors for various species of Onchocerca that may be associated with disease in humans, domestic animals, and wildlife. The emergence of zoonotic Onchocerca lupi in North America and reports of cervid-associated zoonotic onchocerciasis by Onchocerca jakutensis highlight the need for increased entomological surveillance. In addition, there is mounting evidence that Onchocerca diversity in North America is far greater than previously thought, currently regarded as Onchocerca cervipedis species complex. This study reports new geographic records and black fly vector associations of an uncharacterized Onchocerca species.
 
 # Display this page in the Featured widget?
 featured: true
