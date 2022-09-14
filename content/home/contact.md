@@ -29,8 +29,8 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Follow or DM Me
+      link: '[https://twitter.com/Twitter](https://twitter.com/mooseofluv)'
 
 
 design:
