@@ -30,7 +30,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Follow or DM Me
-      link: '[https://twitter.com/Twitter](https://twitter.com/mooseofluv)'
+      link: 'https://twitter.com/mooseofluv'
 
 
 design:
