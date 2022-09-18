@@ -3,7 +3,7 @@ title: Welcome Matthew Kulpa's New Website!
 subtitle: Please feel free to browse and stay up to date on all things happening in the Verocai Lab, wildlife health, parasitology, and myself. Enjoy!
 
 # Summary for listings and search engines
-summary:Welcome Matthew Kulpa's New Website!
+summary: Welcome Matthew Kulpa's New Website!
 
 # Link this post with a project
 projects: []
