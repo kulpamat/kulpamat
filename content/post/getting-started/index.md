@@ -31,6 +31,8 @@ image:
 authors:
   - admin
 
+tags:
+
 categories:
   - Academic
   - Personal
