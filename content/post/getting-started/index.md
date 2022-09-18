@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome Matthew Kulpa's New Website!
+subtitle: Please feel free to browse and stay up to date on all things happening in the Verocai Lab, wildlife health, parasitology, and myself. Enjoy!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary:Welcome Matthew Kulpa's New Website!
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-17-09T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2022-17-09T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
