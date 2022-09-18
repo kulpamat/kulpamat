@@ -32,10 +32,12 @@ authors:
   - admin
 
 tags:
+  - Academic
+  - 开源
 
 categories:
-  - Academic
-  - Personal
+  - Demo
+  - 教程
 ---
 
 ## Overview
